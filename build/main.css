@@ -29171,11 +29171,6 @@ page-login .login-content {
   background: #f5f5f5;
 }
 
-page-login .login-content .logo-row {
-  padding-top: 50px;
-  padding-bottom: 20px;
-}
-
 page-login .login-content .login-box {
   background: #f5f5f5;
   padding: 20px 20px 0px 20px;
@@ -29218,6 +29213,14 @@ page-login .login-content .submit-btn {
 page-login .login-content .register-btn {
   color: #3b3fd8;
   font-size: 0.8em;
+}
+
+page-push .notification-card-content {
+  padding: 0;
+}
+
+page-push .notification-card-content img {
+  max-width: 150px;
 }
 
 page-register .login-content {
